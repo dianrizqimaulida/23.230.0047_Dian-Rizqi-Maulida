@@ -1,7 +1,6 @@
 const quoteText = document.querySelector(".quote"),
 quoteBtn = document.querySelector(".newqoute"),
 authorName = document.querySelector(".name"),
-speechBtn = document.querySelector(".speech"),
 copyBtn = document.querySelector(".copy"),
 twitterBtn = document.querySelector(".twitter"),
 synth = speechSynthesis;
