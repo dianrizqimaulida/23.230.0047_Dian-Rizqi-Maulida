@@ -3,7 +3,6 @@ quoteBtn = document.querySelector(".newqoute"),
 authorName = document.querySelector(".name"),
 copyBtn = document.querySelector(".copy"),
 twitterBtn = document.querySelector(".twitter"),
-synth = speechSynthesis;
 
 function randomQuote(){
     quoteBtn.classList.add("next");
